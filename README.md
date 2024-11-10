@@ -11,4 +11,4 @@ _-CSS_
 ##
 
 <h3>Notas e créditos</h3>
-_-Feito por Tiffany de Oliveira Ferreira, estudande do Ibrahim Nobre e Alura._
+_-Feito por Tiffany de Oliveira Ferreira, estudande do Ibrahim Nobre e Alura_
