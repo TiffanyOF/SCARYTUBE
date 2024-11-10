@@ -6,6 +6,8 @@ Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um
 
 <h3>Tecnologias utilizadas</h3>
 
+_-VS Code_
+
 _-HTML_
 
 _-CSS_
@@ -13,4 +15,4 @@ _-CSS_
 
 <h3>Notas e créditos</h3>
 
-_-Feito por Tiffany de Oliveira Ferreira, estudande do Ibrahim Nobre e Alura_
+_Feito por Tiffany de Oliveira Ferreira, estudande do Ibrahim Nobre e Alura_
