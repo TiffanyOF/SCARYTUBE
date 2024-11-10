@@ -11,7 +11,7 @@ _-VS Code_
 _-HTML_
 
 _-CSS_
-##
+
 
 <h3>Notas e créditos</h3>
 
