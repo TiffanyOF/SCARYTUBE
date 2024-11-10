@@ -1,6 +1,6 @@
 <h1>SCARYTUBE</h1>
 
-Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
+SCARYTUBE é o portal do medo, onde o terror não têm fim! O site contêm vários vídeos de mistérios, jogos de terror, gameplays, args, creepypasta, suspense e muito mais!Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
 
 #
 
